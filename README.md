@@ -1,3 +1,6 @@
+# MAMC
+Source code for the article: "A hybrid evolutionary algorithm for finding low conductance of large graphs"
+
 Zhi Lu, Jin-Kao Hao and Qinghua Wu. "A hybrid evolutionary algorithm for finding low conductance of large graphs".
 
 The source codes of our proposed MAMC algorithm is available in here. 
